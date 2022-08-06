@@ -2,6 +2,7 @@ absl-py==1.2.0
 ansicon==1.89.0
 asttokens==2.0.5
 astunparse==1.6.3
+attrs==21.4.0
 autopep8==1.6.0
 backcall==0.2.0
 beautifulsoup4==4.11.1
@@ -33,6 +34,7 @@ ipython==8.4.0
 jedi==0.18.1
 jinxed==1.2.0
 joblib==1.1.0
+jsonschema==4.7.2
 jupyter-client==7.3.4
 jupyter-core==4.11.1
 keras==2.9.0
@@ -63,6 +65,7 @@ pyasn1-modules==0.2.8
 pycodestyle==2.8.0
 Pygments==2.12.0
 pyparsing==3.0.9
+pyrsistent==0.18.1
 python-dateutil==2.8.2
 pytz==2022.1
 pywin32==304

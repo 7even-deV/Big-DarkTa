@@ -120,3 +120,7 @@ def run():
     file_list = os.listdir("assets/scrapper/data/")
     for data in file_list:
         main(data)
+
+
+if __name__ == '__main__':
+    run()
