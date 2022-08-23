@@ -10,7 +10,7 @@ para el proyecto final del IX BootCamp BD, AI & ML de KeepCoding 2022.
 
 |__Commands__|__Instruction__|
 |------------|---------------|
-|`python3 -m venv .venv`|*Crea un entorno virtual de Python 3 llamado __.venv__*|
+|`python -m venv .venv`|*Crea un entorno virtual de Python llamado __.venv__*|
 |`.venv\Scripts\activate.bat`|*Activa el entorno virtual (__.venv__), para Windows*|
 |`source .venv/bin/activate`|*Activa el entorno virtual (__.venv__), para Mac o Linux*|
 |`python.exe -m pip install --upgrade pip`|*Actualiza el entorno virtual*|

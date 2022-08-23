@@ -1,0 +1,123 @@
+work_year;experience_level;employment_type;job_title;salary_in_usd;employee_residence;remote_ratio;company_location;company_size
+2022;SE;FT;Data Scientist;140000;US;100;US;M
+2020;EN;FT;AI Scientist;45896;DK;50;DK;S
+2022;MI;FT;Data Analyst;85000;CA;0;CA;M
+2022;SE;FT;Data Engineer;156600;US;100;US;M
+2020;SE;FT;Principal Data Scientist;148261;DE;100;DE;M
+2020;EN;PT;Data Scientist;21669;IT;50;IT;S
+2022;SE;FT;Data Engineer;113000;US;0;US;L
+2022;EN;FT;Data Engineer;52351;GB;100;GB;M
+2021;SE;FT;Machine Learning Engineer;200000;US;100;US;L
+2022;SE;FT;Data Engineer;183600;US;100;US;L
+2022;SE;FT;Data Analyst;116000;US;0;US;M
+2022;SE;FT;Head of Data;200000;MY;100;US;M
+2021;MI;FT;Data Scientist;90734;DE;50;DE;L
+2022;SE;FT;Data Scientist;211500;US;100;US;M
+2022;SE;FT;Data Science Engineer;60000;AR;100;MX;L
+2022;MI;FT;Data Engineer;87932;ES;100;ES;M
+2022;SE;FT;Data Analyst;116150;US;100;US;M
+2022;SE;FT;Data Engineer;136994;US;100;US;M
+2022;EN;FT;Data Engineer;120000;US;100;US;M
+2022;SE;FT;Data Engineer;130000;US;100;US;M
+2020;MI;FT;Data Scientist;105000;US;100;US;L
+2021;SE;FT;Data Analyst;200000;US;100;US;L
+2021;MI;FT;Data Engineer;110000;US;100;US;L
+2022;SE;FT;Machine Learning Engineer;120000;AE;100;AE;S
+2021;EX;FT;Data Science Consultant;69741;FR;100;ES;S
+2022;MI;FT;Machine Learning Engineer;87425;AU;100;AU;L
+2021;MI;FT;Data Scientist;12901;BR;0;BR;S
+2021;EN;FT;Data Analyst;60000;US;100;US;S
+2021;MI;FT;Machine Learning Engineer;24823;SI;50;SI;L
+2022;MI;FT;Data Scientist;65438;GB;0;GB;M
+2022;SE;FT;Data Engineer;108800;US;0;US;M
+2022;SE;FT;Machine Learning Developer;78791;CA;100;CA;M
+2022;EN;FT;Machine Learning Engineer;37300;GB;100;GB;L
+2021;MI;FT;Data Scientist;33808;IN;0;IN;M
+2021;MI;FT;Data Analyst;62000;US;0;US;L
+2022;SE;FT;Data Analyst;60000;US;100;US;M
+2022;SE;FT;Data Analyst;132000;US;0;US;M
+2022;SE;FT;Data Analyst;90320;US;100;US;M
+2022;MI;FT;Data Engineer;104702;GB;100;GB;M
+2022;SE;FT;Data Engineer;181940;US;0;US;M
+2021;MI;FT;Data Engineer;72212;GB;50;GB;L
+2021;SE;FT;Research Scientist;96113;CA;50;CA;L
+2020;MI;FT;Data Analyst;85000;US;100;US;L
+2022;SE;FT;Data Analyst;136600;US;100;US;M
+2022;SE;FT;Data Analyst;150000;US;100;US;M
+2022;EX;FT;Data Engineer;324000;US;100;US;M
+2022;MI;FT;Data Analyst;45807;GB;0;GB;M
+2022;SE;FT;Data Architect;192400;CA;100;CA;M
+2020;SE;FT;Machine Learning Scientist;260000;JP;0;JP;S
+2022;MI;FT;Data Analyst;32974;GR;100;GR;M
+2022;SE;FT;Data Analyst;109280;US;100;US;M
+2022;MI;FT;Machine Learning Engineer;124333;GB;0;GB;M
+2022;SE;FT;Data Analytics Manager;109280;US;100;US;M
+2021;MI;FT;Data Scientist;9466;IN;0;IN;S
+2022;SE;FT;Data Analytics Lead;405000;US;100;US;L
+2021;SE;FT;Data Science Manager;152000;US;100;FR;L
+2022;MI;FT;Research Scientist;64849;AT;0;AT;L
+2022;SE;FT;Data Engineer;105000;US;100;US;M
+2020;MI;FT;Business Data Analyst;135000;US;100;US;L
+2021;SE;FT;Data Science Manager;174000;US;100;US;L
+2021;EN;FT;Data Analyst;50000;US;100;US;M
+2021;EN;FT;Business Data Analyst;59102;LU;100;LU;L
+2022;SE;FT;Data Scientist;158200;US;100;US;L
+2020;SE;FT;Big Data Engineer;114047;PL;100;GB;S
+2022;SE;FT;Data Analyst;105000;US;100;US;M
+2020;MI;FT;Product Data Analyst;6072;IN;100;IN;L
+2021;MI;FT;Data Scientist;115000;US;50;US;L
+2021;MI;FT;Data Engineer;28476;PL;100;PL;L
+2022;EN;FT;Computer Vision Engineer;125000;US;0;US;M
+2021;EN;FT;Machine Learning Engineer;81000;US;50;US;S
+2022;SE;FT;Machine Learning Engineer;164996;US;0;US;M
+2022;SE;FT;Data Scientist;123000;US;100;US;M
+2022;EN;FT;Data Analyst;67000;CA;0;CA;M
+2021;EN;FT;Data Scientist;36643;FR;50;FR;L
+2020;EN;FT;Machine Learning Engineer;250000;US;50;US;L
+2021;EX;CT;Principal Data Scientist;416000;US;100;US;S
+2022;MI;PT;Data Engineer;54957;DE;50;DE;L
+2020;MI;FT;Data Analyst;46759;FR;50;FR;L
+2022;SE;FT;Data Engineer;154600;US;100;US;L
+2020;SE;FT;Machine Learning Engineer;45618;HR;100;HR;S
+2022;SE;FT;Data Analyst;130000;CA;100;CA;M
+2022;MI;FT;Machine Learning Engineer;98158;GB;0;GB;M
+2022;SE;FT;Data Analytics Manager;145000;US;100;US;M
+2022;SE;FT;Data Analyst;90320;US;100;US;M
+2021;MI;FT;Data Architect;170000;US;100;US;L
+2022;EN;CT;Applied Machine Learning Scientist;31875;TN;100;CZ;M
+2022;SE;FT;Data Engineer;210000;US;100;US;M
+2020;EN;FT;Data Scientist;39916;FR;0;FR;M
+2022;SE;FT;Data Architect;147800;US;100;US;M
+2021;SE;FT;Data Analyst;71786;CA;100;CA;M
+2020;EN;FT;Data Analyst;6072;IN;0;IN;S
+2020;EN;FT;Big Data Engineer;70000;US;100;US;L
+2021;SE;FT;Data Scientist;165000;US;100;US;L
+2021;MI;CT;ML Engineer;270000;US;100;US;L
+2022;SE;FT;Data Science Manager;137141;US;100;US;M
+2020;EN;FT;Data Scientist;49268;DE;0;DE;S
+2021;SE;FT;Data Engineering Manager;150000;US;0;US;L
+2022;SE;FT;Data Science Manager;161342;US;100;US;M
+2021;MI;FT;Lead Data Analyst;19609;IN;100;IN;L
+2021;MI;FT;Applied Machine Learning Scientist;423000;US;50;US;L
+2022;SE;FT;Data Engineer;145000;US;100;US;M
+2021;MI;FT;Research Scientist;56738;FR;50;FR;S
+2021;EN;FT;Data Engineer;21637;IN;50;IN;M
+2022;SE;FT;Data Engineer;25000;US;100;US;M
+2022;EN;FT;Data Scientist;18442;IN;100;IN;M
+2020;MI;FT;Data Analyst;8000;PK;50;PK;L
+2022;MI;FT;Machine Learning Engineer;120000;US;100;US;S
+2020;EN;PT;ML Engineer;15966;DE;100;DE;S
+2020;SE;FT;Lead Data Scientist;190000;US;100;US;S
+2021;EN;FT;BI Data Analyst;9272;KE;100;KE;S
+2021;MI;FT;Data Scientist;37825;ES;100;ES;L
+2022;SE;FT;Data Analyst;170000;US;100;US;M
+2021;SE;FT;Data Scientist;53192;FR;50;FR;L
+2020;EN;FT;Data Scientist;51321;FR;0;FR;S
+2021;SE;FT;Principal Data Analyst;170000;US;100;US;M
+2022;SE;FT;Data Engineer;209100;US;100;US;L
+2022;SE;FT;Data Scientist;210000;US;100;US;M
+2022;MI;FT;Data Scientist;120000;US;100;US;M
+2022;MI;FT;Data Scientist;90000;US;0;US;M
+2022;SE;FT;Machine Learning Engineer;214000;US;100;US;M
+2021;SE;FT;Data Scientist;20171;TR;50;TR;L
+2021;SE;FT;Data Specialist;165000;US;100;US;L

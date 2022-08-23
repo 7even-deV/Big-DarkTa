@@ -145,7 +145,7 @@ def run(data_dict):
         total_jobs = list(data_dict.values())[i][1]
 
         country_name = country.replace(" ", "-")
-        filepath = f"./assets/scrapper/output/output_{country_name}.csv"
+        filepath = f"./assets/scrapper/indeed/output/indeed_{country_name}.csv"
 
         main(country_code, country, filepath, total_jobs)
 

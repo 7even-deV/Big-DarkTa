@@ -15,11 +15,11 @@ from packages.listing import extract_listing
 
 
 # Loads user defined parameters
-def load_configs(path):
+def load_configs(path, country):
     with open(path) as config_file:
         configurations = json.load(config_file)
 
-    base_url = configurations['base_url']
+    base_url = configurations['base_url_' + country]
     target_num = int(configurations["target_num"])
     return base_url, target_num
 
@@ -34,7 +34,7 @@ def fileWriter(listOfTuples, output_fileName):
                 csv_out.writerow(row_tuple)
                 # Can also do csv_out.writerows(data) instead of the for loop
             except Exception as e:
-                print("[WARN] In fileWriter: {}".format(e))
+                print(f"[WARN] In fileWriter: {e}")
 
 
 # Updates url according to the page_index desired
@@ -50,15 +50,15 @@ def updateUrl(prev_url, page_index):
     return new_url
 
 
-def main(data):
-    base_url, target_num = load_configs(path="assets/scrapper/data/" + data)
+def main(data, country):
+    base_url, target_num = load_configs(path="assets/scrapper/glassdoor/data/" + data, country=country)
 
     # Initialize output directory and file
-    if not os.path.exists('assets/scrapper/output'):
-        os.makedirs('assets/scrapper/output')
+    if not os.path.exists('assets/scrapper/glassdoor/output'):
+        os.makedirs('assets/scrapper/glassdoor/output')
     now = datetime.now()  # Current date and time
-    output_fileName = "./assets/scrapper/output/output_" + \
-        now.strftime("%d-%m-%Y") + ".csv"
+    output_fileName = "./assets/scrapper/glassdoor/output/glassdoor_" + \
+        now.strftime("%d_%m_%Y") + ".csv"
     csv_header = [("companyName", "company_starRating", "company_offeredRole",
                     "company_roleLocation", "listing_jobDesc", "requested_url")]
     fileWriter(listOfTuples=csv_header, output_fileName=output_fileName)
@@ -117,9 +117,16 @@ def main(data):
 
 
 def run():
-    file_list = os.listdir("assets/scrapper/data/")
+    country_list = [
+        "spain",
+        "india",
+        "singapore"
+    ]
+
+    file_list = os.listdir("assets/scrapper/glassdoor/data/")
     for data in file_list:
-        main(data)
+        for country in country_list:
+            main(data, country)
 
 
 if __name__ == '__main__':
